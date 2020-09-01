@@ -869,7 +869,7 @@ p {
     @media (max-width: 575px) {
 
         .title-bar {
-            padding: 50px 0;
+            padding: 0px 0;
         }
 
         .title-bar h1 {
@@ -1237,9 +1237,9 @@ p {
                        OFFER
 ======================================================*/
 
-    #comp-offer {
-    padding: 0px 0;
-}
+        #comp-offer {
+            padding: 30px 0;
+        }
 
     .desc-comp-offer h2,
     .desc-comp-offer>.heading-border-light {
@@ -1584,7 +1584,7 @@ p {
         }
 
         .service-h-desc {
-            padding: 50px 10px 90px 10px;
+            padding: 50px 10px 0px 10px;
         }
     }
 
