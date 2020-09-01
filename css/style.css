@@ -1090,7 +1090,10 @@ p {
         }
     }
 
-
+    .suivi-projet{
+        color:white;
+        text-align:left;
+    }
 /*====================================================
                        STORY
 ======================================================*/
@@ -1203,7 +1206,7 @@ p {
 
     .thought-bg {
         height: 400px;
-        background-image: url(../img/thought-bg.jpg);
+        background-image: url(../img/contact.jpg);
     }
 
     .title-bar-thought p {
@@ -1783,7 +1786,17 @@ p {
         color: #555;
         display: block;
     }
-
+    footer .open-blink:before {
+        content: ' ';
+        position: absolute;
+        top: -8px;
+        display: inline-block;
+        width: 30px;
+        height: 30px;
+        opacity: 0.1;
+        border-radius: 50%;
+        background-color: #4caf50;
+    }
 
 
     /*Thumb list*/
@@ -1893,4 +1906,7 @@ p {
             margin-bottom: 10px;
             padding-bottom: 2px;
         }
+    }
+    a:hover{
+        color:whitesmoke;
     }
