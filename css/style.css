@@ -1238,8 +1238,8 @@ p {
 ======================================================*/
 
     #comp-offer {
-        padding: 100px 0;
-    }
+    padding: 0px 0;
+}
 
     .desc-comp-offer h2,
     .desc-comp-offer>.heading-border-light {
